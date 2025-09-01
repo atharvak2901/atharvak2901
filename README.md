@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 📜 Certifications
 
-- 🎓 **(SAFe)** Certified Scaled Agile Framework Practitioner
+- 🎓 **(SAFe)** Certified Scaled Agile Framework Practitioner ## [🔗](https://drive.google.com/file/d/1zbhvXwa0ux4iDfbfFlVsuEhDx4HrX9pE/view)
 
 ---
 ### 📊 Most Used Skills
