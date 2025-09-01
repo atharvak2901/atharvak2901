@@ -53,7 +53,9 @@ Here are some ideas to get you started:
 - 🎓 **(SAFe)** Certified Scaled Agile Framework Practitioner
 
 ---
-## 📈 Most Used Languages:
+### 📊 Most Used Skills
+
+```text
 Python       ████████████████████████░░  35%
 Flask        ████████████████████████░░  35%
 MongoDB      ████████████████░░░░░░░░░░  25%
