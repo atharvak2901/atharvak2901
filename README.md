@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ## 🤖 About Me:
   - Software Engineer from Pune, India with 3+ years in full stack development & manufacturing execution systems
   - Currently learning and improving problem solving skills by participating in coding contests and solving problems also learning aws skills parallely
+  - 📫 Contact: atharvak39@gmail.com
 
 ## 🌐 Socials
 
