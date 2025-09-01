@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com](https://www.linkedin.com/in/atharva-kulkarni29/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharva-kulkarni29/)  
 
 ---
 
